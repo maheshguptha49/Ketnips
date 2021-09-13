@@ -2,7 +2,8 @@ export function Thanq() {
   return (
     <div>
       <img
-        src="https://image.shutterstock.com/image-vector/thank-you-lettering-template-made-260nw-1934362322.jpg"
+        style={{ width: "100%" }}
+        src="https://meetanshi.com/blog/wp-content/uploads/2020/06/8-Best-Practices-for-E-commerce-Thank-You-Page.png"
         alt=""
       />
     </div>
