@@ -1,0 +1,21 @@
+.product1 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+  text-align: center;
+}
+.product1 > div:nth-child(2) {
+  width: 20%;
+}
+.product1 img {
+  width: 300px;
+}
+.product1 button {
+  background: none;
+  border: none;
+  width: 100%;
+  background: rgb(76, 76, 76);
+  padding: 10px 0;
+  color: white;
+  cursor: pointer;
+}
